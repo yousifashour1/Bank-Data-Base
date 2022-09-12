@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662893927 source:e:\online courses\embedded diploma mz\tasks sol\bank data base using arrays\bank.c
+	<stdlib.h>
+
+1662995032 source:e:\online courses\embedded diploma mz\tasks sol\bank data base using arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
